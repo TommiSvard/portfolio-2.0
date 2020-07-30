@@ -1,0 +1,31 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header__background {
+    height: 650px;
+    background: cornsilk;
+}
+
+.header__background__image {
+    background-image: url("assets/images/background-img/test2-no-bg.svg");
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+
+.header__title, .header__title__text {
+    text-align: center;
+    position: relative;
+    padding: 15% 0px;
+    margin: 0px;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 2.8em;
+    font-weight: bolder;
+    color: cornsilk;
+    text-shadow: -3px 3px 4px rgba(0, 0, 0, 1);
+}
+
+
+
